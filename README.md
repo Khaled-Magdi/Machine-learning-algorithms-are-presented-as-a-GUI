@@ -9,4 +9,3 @@ This project includes projects in the following algorithms :
     4- K-Means Algorithm.
     5- k_medoid Algorithm.
     6- Support vector machines [SVM] Algorithm.
-    7-
